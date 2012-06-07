@@ -1,0 +1,18 @@
+{
+  "author": "Tim Keller <timkeller@gmail.com> (timkeller.me)",
+  "name": "cpt-june",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/timkeller/nodecpt-june.git"
+  },
+  "dependencies": {
+    "underscore" : "1.3.3",
+    "express" : "2.5.x"
+    },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
